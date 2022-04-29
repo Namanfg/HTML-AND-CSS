@@ -1,0 +1,32 @@
+p
+{
+    align-self: stretch;
+    text-align: left;
+}
+body{
+    margin: 0px;
+    font-size: 15px;
+    line-height: 1.0;
+    font-weight: 300;
+    letter-spacing: -.012em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #1d1d1f;
+    padding: 45px 0 30px;
+}
+header h1{
+    text-align: center;
+    text-decoration: solid;
+    border: 0px;
+    border-radius: 5px;
+    padding: 5px;
+}
+img{
+    clip-path: circle(50% at 50% 50%);
+    float: right;
+}
+section{
+    background-color: #eee;
+
+}
+
+
